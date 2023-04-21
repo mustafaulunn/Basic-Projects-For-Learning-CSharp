@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\bin\Debug\Soru5.exe.config
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\bin\Debug\Soru5.exe
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\bin\Debug\Soru5.pdb
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.Form1.resources
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.Properties.Resources.resources
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.exe
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\Soru5\obj\Debug\Soru5.pdb

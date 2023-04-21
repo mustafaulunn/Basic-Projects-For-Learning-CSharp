@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.Form1.resources
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.Properties.Resources.resources
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\bin\Debug\Ödev1MustafaUlun.exe.config
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\bin\Debug\Ödev1MustafaUlun.exe
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\bin\Debug\Ödev1MustafaUlun.pdb
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.exe
+C:\Users\musta\source\repos\Ödev1MustafaUlun\Ödev1MustafaUlun\obj\Debug\Ödev1MustafaUlun.pdb
